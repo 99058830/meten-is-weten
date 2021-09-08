@@ -8,3 +8,5 @@ if a > b:
 elif a < b:
     b = min
     print("a is het kleinste getal")
+if a == b:
+    print("a en b zijn even groot")
